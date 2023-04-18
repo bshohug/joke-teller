@@ -10,7 +10,7 @@ function toggleButton() {
 function tellMe(joke) {
   console.log('tell me:', joke);
   VoiceRSS.speech({
-    // Never share you API like this.
+    // API shared here for demonstrated purpose. Never share personal API public.
     key: '0011cfdcb3864280b74d931f620f12f0',
     src: joke,
     hl: 'en-gb',
