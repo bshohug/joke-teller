@@ -1,4 +1,4 @@
-/* ROBOT.GIF from Giphy - https://giphy.com/gifs/robot-cinema-4d-eyedesyn-3o7abtn7DuREEpsyWY */
+/* ROBOT.GIF from Giphy - https://cdn.dribbble.com/users/634508/screenshots/5058273/media/b5c02d6a9a6ce6899b7f42f5df2661c0.gif*/
 
 html {
   box-sizing: border-box;
@@ -6,7 +6,8 @@ html {
 
 body {
   margin: 0;
-  background: #45badd;
+
+  background: #ffffff;
 }
 
 .container {
